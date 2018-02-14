@@ -1,0 +1,16 @@
+/logs
+/.idea
+/vendor
+/.vagrant
+/public/hot
+/node_modules
+/storage/*.key
+/public/storage
+/config/database.php
+Homestead.json
+yarn-error.log
+Homestead.yaml
+npm-debug.log
+.env
+.htaccess
+composer.lock
